@@ -1,4 +1,5 @@
 # ViaUpdater
+![GitHub License](https://img.shields.io/github/license/Crysta1221/ViaUpdater)  ![GitHub Release](https://img.shields.io/github/v/release/Crysta1221/ViaUpdater)  
 **ViaUpdater is an unofficial updater that automatically updates ViaVersion and ViaBackwards.**  
 
 This program is written as a shell script and runs in a Linux environment or on a terminal with Git installed.
