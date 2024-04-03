@@ -8,9 +8,9 @@ This program is written as a shell script and runs in a Linux environment or on 
 It's easy to use. Just download `update.sh` and run it. 
 
 **1. Download `update.sh`**  
-You can use download with cURL.
+You can use download with wget.
 ```sh
-curl https://raw.githubusercontent.com/Crysta1221/ViaUpdater/main/update.sh
+wget https://raw.githubusercontent.com/Crysta1221/ViaUpdater/main/update.sh
 ```
 
 **2. Execute `update.sh`**  
